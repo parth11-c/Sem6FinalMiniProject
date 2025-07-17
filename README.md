@@ -17,7 +17,7 @@ A web-based platform designed to **showcase student projects**, enable **collabo
 ## 🛠 Tech Stack
 - **Backend:** Spring Boot (Java)
 - **Database:** MongoDB
-- **Frontend:** React.js (or specify actual stack used)
+- **Frontend:** React Native
 - **Authentication:** JWT 
 
 ---
