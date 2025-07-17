@@ -18,8 +18,7 @@ A web-based platform designed to **showcase student projects**, enable **collabo
 - **Backend:** Spring Boot (Java)
 - **Database:** MongoDB
 - **Frontend:** React.js (or specify actual stack used)
-- **Authentication:** JWT / OAuth (if implemented)
-- **Hosting:** TBD (e.g., AWS, Heroku)
+- **Authentication:** JWT 
 
 ---
 
